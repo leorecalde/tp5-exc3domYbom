@@ -15,6 +15,7 @@ JavaScrip - ES6
 
 ### Repo del Proyecto
 
+[link de repo](https://github.com/leorecalde/tp5-exc3domYbom.git)
 
 ### Autor
 Leonardo E. Recalde
